@@ -75,14 +75,25 @@ me.say_hi()
 
 ## 🎮 When I'm Not Coding...
 
-         🎮 SYSTEM OVERRIDE: GAMER ENGAGED 🎮
-        ╭────────────────────────────────────────────────╮
-        │ ██ USER: THE MULTITASKING MENACE            ██ │
-        │ ██ LOADOUT: CODE X COMBO STRIKES            ██ │
-        │ ██ RANK: 💻 DEV • 🎮 PLAYER • 🧠 THINKER  ██ │
-        │ ██ STATUS: 🔥 100% FOCUS LOCKED 🔥         ██ │
-        ╰────────────────────────────────────────────────╯
-
+         🎮 GAMER DASHBOARD — ONLINE
+        
+     ╔════════════════════════════════════════╗
+     ║ ▸ MAIN LOADOUT                         ║
+     ║     ┗ Valorant                         ║
+     ║     ┗ Minecraft (pvp + parkour = chaos)║
+     ║                                        ║
+     ║ ▸ RECENT QUESTS                        ║
+     ║     ┗ It Takes Two (co-op      )       ║
+     ║     ┗ Ori and the Will of the Wisps    ║
+     ║                                        ║
+     ║ ▸ PLAYSTYLE                            ║
+     ║     ┗ FPS with aim + chill vibes       ║
+     ║     ┗ Down for story-based adventures  ║
+     ║                                        ║
+     ║ ▸ ALT MODE                             ║
+     ║     ┗ Full-stack coding sessions       ║
+     ║     ┗ Coffee + keyboard = comfort      ║
+     ╚════════════════════════════════════════╝
 
 **Fun Fact:** I've mastered the art of debugging code while clutching in competitive games! 🏆
 
