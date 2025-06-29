@@ -36,24 +36,25 @@ me.say_hi()
 <div align="center">
 
 ### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
 
 ### 🗄️ Databases & Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
 ### 🤖 AI/ML Focus
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+
 
 </div>
 
@@ -74,18 +75,14 @@ me.say_hi()
 
 ## 🎮 When I'm Not Coding...
 
-<div align="center">
+         🎮 SYSTEM OVERRIDE: GAMER ENGAGED 🎮
+        ╭────────────────────────────────────────────────╮
+        │ ██ USER: THE MULTITASKING MENACE            ██ │
+        │ ██ LOADOUT: CODE X COMBO STRIKES            ██ │
+        │ ██ RANK: 💻 DEV • 🎮 PLAYER • 🧠 THINKER  ██ │
+        │ ██ STATUS: 🔥 100% FOCUS LOCKED 🔥         ██ │
+        ╰────────────────────────────────────────────────╯
 
-```ascii
-    🎮 GAMING MODE ACTIVATED 🎮
-    ┌─────────────────────────┐
-    │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-    │  ▓ LEVEL: MULTITASKER ▓  │
-    │  ▓ SKILL: CODE & GAME ▓  │
-    │  ▓ STATUS: LEGENDARY  ▓  │
-    │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-    └─────────────────────────┘
-```
 
 **Fun Fact:** I've mastered the art of debugging code while clutching in competitive games! 🏆
 
@@ -109,6 +106,8 @@ graph LR
     style C fill:#45b7d1
     style D fill:#96ceb4
     style E fill:#ffeaa7
+    classDef blackFont fill-opacity:1,color:black;
+    class A,B,C,D,E blackFont
 ```
 
 </div>
@@ -121,13 +120,18 @@ graph LR
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://jgk2k4.wordpress.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+### 🌐 Connect With Me
 
-### 💬 Let's build something amazing together!
+[![My Blog](https://img.shields.io/badge/My%20Website-21759B?style=plastic&logo=wordpress&logoColor=white)](https://jgk2k4.wordpress.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/jgk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](#)
+
+---
+
+### 💬 Let’s build something **amazing** together!
 
 </div>
+
 
 ---
 
