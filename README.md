@@ -127,6 +127,23 @@ me.say_hi()
 
 ---
 
+### 📈 GitHub Activity Overview
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jovin-gigu&theme=github-dark&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jovin-gigu&show_icons=true&theme=da&hide_border=true" />
+</div>
+
+
+
 ## 🌟 Current Journey
 
 <div align="center">
@@ -160,8 +177,8 @@ graph LR
 ### 🌐 Connect With Me
 
 [![My Blog](https://img.shields.io/badge/My%20Website-21759B?style=plastic&logo=wordpress&logoColor=white)](https://jgk2k4.wordpress.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/jgk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/jovin-gigu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgk2k4/)
 
 ---
 
@@ -176,7 +193,8 @@ graph LR
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=jgk&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=jovin-gigu&color=blueviolet&style=for-the-badge)
+
 
 **⭐ If you like what you see, don't forget to star some repos! ⭐**
 
