@@ -109,7 +109,7 @@ me.say_hi()
      ║     ┗ Minecraft (pvp + parkour = chaos)║
      ║                                        ║
      ║ ▸ RECENT QUESTS                        ║
-     ║     ┗ It Takes Two (co-op      )       ║
+     ║     ┗ It Takes Two (co-op)             ║
      ║     ┗ Ori and the Will of the Wisps    ║
      ║                                        ║
      ║ ▸ PLAYSTYLE                            ║
