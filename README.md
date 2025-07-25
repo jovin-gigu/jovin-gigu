@@ -96,7 +96,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovin-gigu&theme=city_lights&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jovin-gigu&theme=city_lights&layout=compact" />
 </div>
 
 ## 🎮 When I'm Not Coding...
